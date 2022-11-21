@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chintherock-git
 - 👀 I’m interested in Automation Web and API using BDD and POM models with Java and Selenium
-- 🌱 I’m currently learning python
+- 🌱 I’m passionate about python
 - 💞️ I’m looking to collaborate on Test Automation, Devops, Ansible, Data Engineering and PenTest
 - 📫 How to reach me ...
 - Gmail : cbaitharu@gmail.com
