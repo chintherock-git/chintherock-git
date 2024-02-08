@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Test Automation, Devops, Ansible, Data Engineering and PenTest
 - 📫 How to reach me ...
 - Gmail : cbaitharu@gmail.com
-- LinkedIn https://www.linkedin.com/in/🤝chinmayee-baitharu-a0305238/
+- LinkedIn https://www.linkedin.com/in/%F0%9F%A4%9Dchinmayee-baitharu-250333278/
 - Blogs : https://talkfreetalkfearless.blogspot.com/2022/10
 
 <!---
